@@ -1,25 +1,8 @@
----
-# https://vitepress.dev/reference/default-theme-home-page
-layout: home
-
-hero:
-  name: "My Awesome Project"
-  text: "A VitePress Site"
-  tagline: My great project tagline
-  actions:
-    - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
-
-features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
----
+# Wrapped Documentation
+ 
+Welcome to **Wrapped** — a digital platform designed to connect South Africa’s film, television, and creative production ecosystem.  
+ 
+Our mission is to make hiring, onboarding, and managing freelancers **simpler, faster, and transparent** for both creative professionals and production companies.
+ 
+Explore this documentation to understand what Wrapped is, how it works, and how to get the most out of your experience.
 
