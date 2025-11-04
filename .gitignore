@@ -1,0 +1,8 @@
+# Node dependencies
+/node_modules
+
+# VitePress build output directory (production files)
+/docs/.vitepress/dist
+
+# VitePress development cache directory
+/docs/.vitepress/cache
